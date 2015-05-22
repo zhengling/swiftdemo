@@ -182,7 +182,7 @@ enum CompassPoint {
 var currentDirection = CompassPoint.West
 let rememberedDirection = currentDirection
 currentDirection = .East
-if rememberDirection == .West {
+if rememberedDirection == .West {
 	println("The remembered direction is still .West")
 }
 // 输出 "The remembered direction is still .West"
@@ -237,8 +237,8 @@ println("The frameRate property of tenEighty is now \(tenEighty.frameRate)")
 以下是运用这两个运算符检测两个常量或者变量是否引用同一个实例：
 
 ```swift
-if tenEighty === alsoTenTighty {
-	println("tenTighty and alsoTenEighty refer to the same Resolution instance.")
+if tenEighty === alsoTenEighty {
+	println("tenEighty and alsoTenEighty refer to the same Resolution instance.")
 }
 //输出 "tenEighty and alsoTenEighty refer to the same Resolution instance."
 ```
