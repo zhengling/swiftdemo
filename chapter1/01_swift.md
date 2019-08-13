@@ -2,7 +2,7 @@
 > 校对：[yeahdongcn](https://github.com/yeahdongcn)
 
 # 关于 Swift
------------------
+---------+-------
 
 Swift 是一种新的编程语言，用于编写 iOS，OS X 和 watchOS应用程序。Swift 结合了 C 和 Objective-C 的优点并且不受 C 兼容性的限制。Swift 采用安全的编程模式并添加了很多新特性，这将使编程更简单，更灵活，也更有趣。Swift 是基于成熟而且倍受喜爱的 Cocoa 和 Cocoa Touch 框架，它的降临将重新定义软件开发。
 
