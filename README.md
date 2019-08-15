@@ -1,1 +1,3 @@
-由于 Gitbook 访问速度太慢，从 2.0 版本开始，我们的翻译内容会迁移到国内的服务器上，请访问[Swift 2.0 文档翻译](http://www.swiftguide.cn)。
+![](/cover_small.jpg)
+####这篇GitBook文章是我用来学习、体验GitBook相关技术，我不拥有该版权，若内容涉及侵权，请合理向我[zhengling8@aliyun.com](zhengling8@aliyun.com)提出请求，我会将其做下架处理。
+[Swift 2.0 文档翻译](http://www.swiftguide.cn)。
